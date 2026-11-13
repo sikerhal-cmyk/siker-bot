@@ -3,8 +3,8 @@ import pandas as pd
 import requests
 import os
 
-TOKEN = os.environ["9150071667:AAFNAbS-pRvIl6UNpVZbwFdC31YyJzrGz2M"]
-CHAT_ID = os.environ["1603939737"]
+TOKEN = os.environ["TOKEN"]
+CHAT_ID = os.environ["CHAT_ID"]
 
 SAHAM = ["BBCA.JK", "BBRI.JK", "BMRI.JK", "BBNI.JK", "AMMN.JK", "GOTO.JK", "TLKM.JK", "ASII.JK", "ICBP.JK", "UNVR.JK"]
 
